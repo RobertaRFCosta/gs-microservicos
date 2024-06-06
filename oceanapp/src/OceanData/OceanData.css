@@ -1,0 +1,23 @@
+
+.OceanData {
+    border-collapse: collapse; 
+    width: 100%; 
+    margin: 1rem auto; 
+  }
+  
+  .OceanData th,
+  .OceanData td {
+    padding: 0.5rem 1rem; 
+    border: 1px solid #ddd; 
+    text-align: left;
+  }
+  
+  .OceanData th {
+    background-color: #f2f2f2; 
+    font-weight: bold; 
+  }
+  
+  .OceanData tbody tr:nth-child(even) {
+    background-color: #aca8a8; 
+  }
+  
