@@ -6,18 +6,6 @@ Bem vindo ao nosso Projeto React.
 ## Visão Geral
 Este projeto foi criado para mostrar as espécies de animais que estão em extinção, em determinada região
 
-## Pré-requisitos
-Antes de começar, certifique-se de colocar o seguinte comando no terminal:
-
- ```bash
-    npm install
-  ```
-Em seguida
-
- ```bash
-    npm start
-  ```
-
 ## Como Rodar
 
 Siga o passo a passo abaixo:
@@ -28,13 +16,19 @@ Siga o passo a passo abaixo:
 git clone https://github.com/RobertaRFCosta/gs-microservicos.git
 ```
 
-2. Navegar até o diretório do projeto:
+2. Coloque os seguintes comandos
    
-```bash
-cd seu-projeto-react
-```
+ ```bash
+    npm install
+  ```
+Em seguida
 
+ ```bash
+    npm start
+  ```
 ## Print do Projeto
+
+![Print do Projeto rodando](https://i.ibb.co/c83J4s2/img-print.png)
 
 ## Contribuindo 
 
