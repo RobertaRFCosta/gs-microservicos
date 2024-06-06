@@ -9,9 +9,14 @@ Este projeto foi criado para mostrar as espécies de animais que estão em extin
 ## Pré-requisitos
 Antes de começar, certifique-se de colocar o seguinte comando no terminal:
 
-```bash
-npx create-react-app oceanapp
-```
+ ```bash
+    npm install
+  ```
+Em seguida
+
+ ```bash
+    npm start
+  ```
 
 ## Como Rodar
 
